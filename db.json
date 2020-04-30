@@ -1,0 +1,196 @@
+{
+  "dishes": [
+    {
+      "id": 0,
+      "name": "Electricity",
+      "image": "images/electricity.png",
+      "category": "Electricity",
+      "featured": true,
+      "description": "Poverty, lack of resources, lack of political will, poor planning, and electricity theft are some of the major causes which have left many villages in India without electricity, while urban areas have enjoyed growth in electricity consumption and capacity.For villages/habitations where grid connectivity would not be feasible or not cost effective, off-grid solutions based on stand-alone systems may be taken up for supply of electricity. Where these also are not feasible and if only alternative is to use isolated lighting technologies like solar photovoltaic, these may be adopted. However, such remote villages may not be designated as electrified. State government should, within 6 months, prepare and notify a rural electrification plan which should map and detail the electrification delivery mechanism. The plan may be linked to and integrated with district development plans. The plan should also be intimated to the appropriate commission. Gram panchayat shall issue the first certificate at the time of the village becoming eligible for declaration as electrified. Subsequently, the Gram Panchayat shall certify and confirm the electrified status of the village as on 31st March each year."
+    },
+    {
+      "id": 1,
+      "name": "Medical Facility",
+      "image": "images/medical.png",
+      "category": "Medical Facility",
+      "featured": false,
+      "description": "Rural Health care is one of biggest challenges facing the Health Ministry of India. With more than 70 percent population living in rural areas and low level of health facilities, mortality rates due to diseases are on a high.Healthcare is the right of every individual but lack of quality infrastructure, dearth of qualified medical functionaries, and non- access to basic medicines and medical facilities thwarts its reach to 60% of population in India.Several organizations are working alongside the government and NGOs to help relieve the burden on the public health system using mobile technology. India has over 900 million mobile phone users and this fact can be leveraged to employ better practices in even the remote areas.Making women aware of their rights to demand good quality of care,Bringing accountability by highlighting lapses in the health delivery process, and, Increasing uptake of appropriate health services at the right venues"
+    },
+    {
+      "id": 2,
+      "name": "Drinking Water",
+      "image": "images/drinkingwater.png",
+      "category": "Drinking Water",
+      "featured": false,
+      "description": "Five crore people living in  over one lakh habitations in villages in our country do not have access to safe drinking water even today. According to official figures twenty two per cent rural families have to walk for   at least half a kilometer or more to fetch water (mostly it is the women who have to bear the burden). The percentage of such families is the maximum in Manipur, Tripura, Odisha, Meghalaya, Jharkhand and Madhya Pradesh. Fifteen per cent of households in villages depend on uncovered wells and other unimproved sources like rivers, springs, ponds for drinking water.  Also eighty five per cent of   all drinking water resources in villages are based on underground sources of water and in many of these areas water is contaminated. Only 30.80 percent of the rural population has access to tap water. Infact  there are only four states which have  been able to bring   fifty per cent or more of the rural  areas under piped water supply. Many of the states are yet to fully comply with the Supreme Court order on supply of potable water in government schools. The latest available data shows that less than the 44 per cent government schools in villages have drinking water facility. During the national consultation in Delhi  held recently on the progress of national rural drinking water programmers and related issues , it was revealed that   in spite  of  this  unsatisfactory scenario  with regard potable water availability in villages  many of the  states  have failed  to fully  utilize  the funds allocated by the centre  under the  various heads of NRDWP. "
+    },
+    {
+      "id": 4,
+      "name": "Irrigation",
+      "image": "images/irrigation.png",
+      "category": "Irrigation",
+      "featured": false,
+      "description": "Irrigation and Waterways Department of West Bengal is entrusted with the task of providing irrigation facilities, offering reasonable protection against flood, alleviating drainage congestion, arresting erosion, maintaining internal navigation channels and up-keeping the natural waterways in the state.Though the average water availability in India remains more or less fixed according to the natural hydraulic cycle, per capita availability is reducing progressively owning to the increasing population. In 1991, the average figure was around 2,200 cubic meters [cm], which has fallen to about 1829 cm. It may further go down to about 1340 cm and 1140 cm a year by 2025 and 2050 respectively.  The situation in some of the river basins is worrisome.  According to international agencies any region with per capita water availability of less than 1700 cm is considered ‘water stressed’ and those with less than 1000 cm ‘water scarce’. Already six river basins of the country fall in the ‘water scarce’ category, and five more basins are likely to be ‘water scarce’ during 2025-50.only 3-4 basins will be ‘water sufficient’."
+    },
+    {
+      "id": 5,
+      "name": "Technology",
+      "image": "images/technology.png",
+      "category": "Technology",
+      "featured": false,
+      "description": "The goal of this book is to educate children about processes and technologies that can improve the lives of people in poor or disadvantaged communities, while respecting their local environment. When working on this project, remember that it is aimed at children. It must be simple and easily understood while being quite accurate. Use technical vocabulary when you need to, but don't use big words where simpler language would work.Rural Development is a term that is used widely in governmental organizations and many publications regarding rural activity in all the countries around the world. This book is about Rural Development at a basic level, with the material directed towards informing children about what can drive the first phases of development.The water resources module explains how the water cycle operates and how important its protection and correct use is to development in all areas of life. A number of technologies that can improve use of water are explained.The housing module explains many ways of creating reliable housing in different rural locations around the globe.This module explains how simple technologies can improve farming in rural areas."
+    },
+    {
+      "id": 6,
+      "name": "Transport",
+      "image": "images/transport.png",
+      "category": "Transport",
+      "featured": false,
+      "description": "India has a long way to go to achieve inclusive growth. Despite a couple of billionaires, lakhs of rich people and more than five crore middle class becoming the face of India’s success story, there is a gap between social security and India’s growth. This becomes clear when one considers the plight of over the billion people who are also a part of India. If at all, the link between social security and ‘shining’ growth is weak and shoddy The transport sector is an important component of the economy impacting on development and the welfare of populations. When transport systems are efficient, they provide economic and social opportunities and benefits that result in positive multipliers effects such as better accessibility to markets, employment and additional investments. When transport systems are deficient in terms of capacity or reliability, they can have an economic cost such as reduced or missed opportunities"
+    },
+    {
+      "id": 7,
+      "name": "Drainage",
+      "image": "images/drainage.png",
+      "category": "Drainage",
+      "featured": false,
+      "description": "Designing and constructing drainage systems require expert advice from engineers to make sure that water flows away quickly and smoothly and is disposed of in a surface watercourse or soakaway. Drainage installed by one community should not create problems for other communities downstream, nor should it affect ecologically important sites. Environmental considerations should be given adequate attention: long-term changes to the environment may lead to greater health problems in the future.Combined drains are designed to carry both stormwater and sullage. Unless a combined drain is well designed and maintained, however, sullage will pool within the drain and form insect breeding sites. These problems can be overcome by using a system with a small insert drain that carries the sullage into a larger drain for carrying stormwater. As with all drainage systems, it is essential that the drains are properly operated and maintained, and that refuse is cleared from the drains."
+    },
+    {
+      "id": 8,
+      "name": "Unemployment",
+      "image": "images/unemployment.png",
+      "category": "Unemployment",
+      "featured": false,
+      "description": "In January 2020, the unemployment rate in India was 7.16 per cent. This is substantially lower than the 7.6 per cent unemployment rate recorded in December 2019.In recent months, the monthly unemployment rate seems to have stabilised at just below 7.5 per cent. But, month-on-month variations, at about 65 basis points, have been higher than in earlier years. Such variations have usually been between 30 and 50 basis points. The average monthly unemployment rate over the 12 months ended January 2020 is 7.4 per cent. During this period, the rate touched a high of 8.2 per cent in August 2019 and it dipped to a low of 6.7 per cent in March 2019.The unemployment rate did cross 8 per cent in August and October 2019. But, it has been distinctly lower than that since October. While the unemployment rate did breach the 8 per cent mark twice, it did not seem to be able to sustain that level. The rate seems to have slipped down decisively below 8 per cent but it remains distinctly higher than 7 per cent. Evidently, although the unemployment is quite high at about 7.4 per cent, it has stopped rising as it has been since mid-2017. The new phenomenon is a substantial increase in the month-on-month variations in the unemployment rate.Besides the increase in monthly variations, there is an increase in the gap between rural and urban unemployment rates."
+    }
+  ],
+  "promotions": [
+    {
+      "id": 0,
+      "name": "COVID-19",
+      "image": "images/covid.png",
+      "featured": true,
+      "description": "The virus that causes COVID-19 is mainly transmitted through droplets generated when an infected person coughs, sneezes, or exhales. These droplets are too heavy to hang in the air, and quickly fall on floors or surfaces."
+    },
+    {
+      "id": 1,
+      "name": "Wheat procurement kicks off, government gears up for kharif",
+      "image": "images/wheat.png",
+      "featured": true,
+      "description": "Government Crop procurement the biggest economic activity in most parts of northern and central India, began smoothly on Wednesday boosting rural sentiment and calming  who were anxious about a two-week delay in the harvest.Now the government’s top priority is the kharif, or summer sown crop, which accounts for 90% of rice and 70% of oilseeds produced in the country.Official agencies started buying wheat in parts of Punjab, Uttar Pradesh and Madhya Pradesh amid strict Covid-19 protocol. Procurement will begin in Haryana on April 20 and in Rajasthan on Thursday."
+    }
+  ],
+  "leaders": [
+    {
+      "id": 0,
+      "name": "Shri Narendra Singh Tomar",
+      "image": "images/minister-1.png",
+      "designation": "Minister of Rural Development, Agriculture and Farmers Welfare & Panchayati Raj",
+      "abbr": "Minister",
+      "featured": false,
+      "description": "Narendra Singh Tomar is an Indian politician and a member of the 17th Lok Sabha. He is the Minister of Agriculture & Farmers Welfare and Minister of Rural Development in the Second Modi ministry. Previously he was the Minister of Mines and Minister of Parliamentary Affair in the Government of India"
+    },
+    {
+      "id": 1,
+      "name": "Sadhvi Niranjan Jyoti",
+      "image": "images/minister-2.png",
+      "designation": "Minister of State for Rural Development",
+      "abbr": "MoS",
+      " featured": false,
+      "description": "Niranjan Jyoti, more commonly known as Sadhvi Niranjan Jyoti, is an Indian politician belonging to Bharatiya Janata Party. She was appointed the Minister of State for Food Processing Industries in November 2014."
+    },
+    {
+      "id": 2,
+      "name": "Shri Rajesh Bhushan",
+      "image": "images/secretary-1.png",
+      "designation": "Secretary of Department of Rural Development",
+      "abbr": "Secretary",
+      "featured": false,
+      "description": "Bhushan, a 1987-batch IAS officer of Bihar cadre, is the Secretary Coordination in the Cabinet Secretariat.The secretary (security) is the administrative head of the Special Protection Group (SPG) and is responsible for closely monitoring the security arrangements for Prime Minister Narendra Modi, former prime ministers and members of their immediate families in India and abroad."
+    },
+    {
+      "id": 3,
+      "name": "Shri Ruolkhumlien Buhril",
+      "image": "images/secretary-2.png",
+      "designation": "Secretary of Department of Land Resources",
+      "abbr": "Secretary",
+      "featured": true,
+      "description": " Ruolkhumlien Buhril, IAS (Tamil Nadu 1984) presently Secretary- Inter State Council Secretariat, Ministry of Home Affairs , has been appointed as OSD, Department of Land Resources, Ministry of Rural Development. He shall take over as Secretary- Department of Land Resources w.e.f. 01 ,04.2019 upon superannuation of Shri Anant Kumar Singh IAS (UP:84) on 31.03.2019."
+    }
+  ],
+  "comments": [
+    {
+      "dishId": 0,
+      "location": "ludhiana",
+      "author": "Amit Kumar",
+      "date": "2020-04-30T02:09:10.905Z",
+      "id": 1
+    },
+    {
+      "dishId": 1,
+      "location": "Delhi",
+      "author": "Amit Kumar",
+      "date": "2020-04-30T02:10:04.393Z",
+      "id": 2
+    },
+    {
+      "dishId": 2,
+      "location": "Patna ",
+      "author": "Amit Kumar",
+      "date": "2020-04-30T02:10:27.490Z",
+      "id": 3
+    },
+    {
+      "dishId": 4,
+      "location": "Bangalore ",
+      "author": "Amit Kumar",
+      "date": "2020-04-30T02:10:59.937Z",
+      "id": 4
+    },
+    {
+      "dishId": 5,
+      "location": "Kolkata ",
+      "author": "Amit Kumar",
+      "date": "2020-04-30T02:11:22.723Z",
+      "id": 5
+    },
+    {
+      "dishId": 6,
+      "location": "West Champaran",
+      "author": "Amit Kumar",
+      "comment": "hii",
+      "date": "2020-04-30T02:11:58.155Z",
+      "id": 6
+    },
+    {
+      "dishId": 7,
+      "location": "Lucknow",
+      "author": "Amit Kumar",
+      "comment": "hello",
+      "date": "2020-04-30T02:12:39.342Z",
+      "id": 7
+    },
+    {
+      "dishId": 8,
+      "location": "Jalandhar ",
+      "author": "Amit Kumar",
+      "comment": "hii",
+      "date": "2020-04-30T02:13:23.615Z",
+      "id": 8
+    }
+  ],
+  "feedback": [
+    {
+      "firstname": "Amit",
+      "lastname": "Kumar",
+      "telnum": "9523400821",
+      "email": "amitk.umar@outlook.com",
+      "agree": true,
+      "contactType": "Tel.",
+      "message": "hii how r u",
+      "date": "2020-04-04T22:48:28.045Z",
+      "id": 1
+    }
+  ]
+}
